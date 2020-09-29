@@ -1,0 +1,12 @@
+{
+    "name": "sangl/parcial",
+    "authors": [
+        {
+            "name": "SanglaHector",
+            "email": "sanglahector@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
